@@ -1,6 +1,14 @@
 # Degree
+<<<<<<< HEAD
 - degree: bachelor
   uni: chengdu university
   year: June, 2013 &mdash; January, 2017
   # awards: 
   # summary: I'M A TRIPLE-A STUDENT
+=======
+- degree: Full Stack Webdeveloper Nanodegree  
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  # awards:
+  # summary:
+>>>>>>> b05509ab7cdc9a5a2b356d07958a5cc8c13fb9b0
